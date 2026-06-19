@@ -8,4 +8,4 @@ Designed a responsive and user-friendly interface with CSS styling.
 
 ## Live Demo
 
-[View Portfolio](https://rahul-tech-eng.github.io/TIC-TAK-TOE/)
+[View Game](https://rahul-tech-eng.github.io/TIC-TAK-TOE/)
